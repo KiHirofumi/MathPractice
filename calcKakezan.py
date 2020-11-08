@@ -7,8 +7,8 @@ counter = [1,2,3,4,5,6,7,8,9,10]
 # 時間計測開始
 start = time.time()
 for number in counter:
-    x = random.randrange(1,5)
-    y = random.randrange(1,9)
+    x = random.randrange(1,6)
+    y = random.randrange(1,10)
 #    if x>y:
 #        a = x
 #        b = y
